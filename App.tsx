@@ -10,6 +10,7 @@ import Pricing from './components/Pricing';
 import FAQ from './components/FAQ';
 import LeadForm from './components/LeadForm';
 import Footer from './components/Footer';
+import Chatbot from './components/Chatbot';
 
 const App: React.FC = () => {
   const [scrolled, setScrolled] = useState(false);
@@ -83,6 +84,7 @@ const App: React.FC = () => {
         </section>
       </main>
 
+      <Chatbot />
       <Footer />
     </div>
   );
