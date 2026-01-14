@@ -1,0 +1,7 @@
+{
+  "name": "Technova AI Lead Systems",
+  "description": "A high-conversion landing page for Technova, a digital marketing agency specializing in AI-driven lead generation and automated ad management for modern businesses.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
